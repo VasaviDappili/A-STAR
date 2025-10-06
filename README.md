@@ -1,6 +1,6 @@
 <h1>ExpNo 4 : Implement A* search algorithm for a Graph</h1> 
-<h3>Name: DAPPILI VASAVI    </h3>
-<h3>Register Number: 212223040030      </h3>
+<h3>Name: DAPPILI VASAVI</h3>
+<h3>Register Number: 212223040030 </h3>
 <H3>Aim:</H3>
 <p>To ImplementA * Search algorithm for a Graph using Python 3.</p>
 <H3>Algorithm:</H3>
@@ -146,7 +146,7 @@ J 0 <br>
 <hr>
 Path found: ['A', 'F', 'G', 'I', 'J']
 
-
+![Screenshot 2025-03-28 161301](https://github.com/user-attachments/assets/2dde27ae-c9ec-48e1-a48f-bd5a129e5593)
 
 
 <hr>
@@ -177,6 +177,7 @@ G 0 <br>
 <hr>
 Path found: ['A', 'E', 'D', 'G']
 
+![Screenshot 2025-03-28 161500](https://github.com/user-attachments/assets/e551ec4b-97d3-4c24-962b-2e0f391fbe4e)
 
 
 <h2>RESULT :</h2>
